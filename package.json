@@ -1,0 +1,24 @@
+{
+  "name": "quitelikemybrothers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "process-images": "node scripts/process-images.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muryllohenriq/quitelikemybrothers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/muryllohenriq/quitelikemybrothers/issues"
+  },
+  "homepage": "https://github.com/muryllohenriq/quitelikemybrothers#readme",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
